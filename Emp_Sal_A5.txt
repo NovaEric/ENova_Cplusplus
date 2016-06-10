@@ -1,0 +1,10 @@
+Francisco 24000
+Rafael    25000
+Erinel    12000
+Ruth      33000
+Eric      40000
+Emmeri    9000
+Nelson    15000
+Euri      19000
+Mark      85000
+Jason     50000

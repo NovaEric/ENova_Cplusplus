@@ -1,0 +1,4 @@
+M.Betts 102 20 7 18 320
+X.Bogaert 90 18 3 8 254
+H.Ramirez 100 10 2 20 356
+D.Ortiz 98 20 1 37 298

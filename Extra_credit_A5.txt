@@ -1,0 +1,10 @@
+Francisco 24000
+Lafael    25000
+Urinel    12000
+Ruth      33000
+Eric      40000
+Ammeri    9000
+Nelson    15000
+Suri      19000
+Mark      85000
+Jason     50000

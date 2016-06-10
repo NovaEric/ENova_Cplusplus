@@ -1,0 +1,9 @@
+Nova	Eric	41000
+Smith	Alex	38000
+Lynn	Carla	27000
+Carter	Joe		66000
+Jones	Andre	84000
+Estrada Joseph	53000
+Lee		Wan		72000
+Robert	Bryant	90000
+Watson	Will	19000

@@ -1,0 +1,10 @@
+John Doe 3.50 120 Senior
+Betty Smith 4.0 80 Junior
+Dave Jones 2.75 30 Sophomore
+Sue Davis 3.25 12 Freshman
+Mike Ward 3.80 132 Senior
+Nancy Blanchard 3.0 90 Junior
+Bill Coole 2.50 65 Sophomore
+Karen White 3.80 10 Freshman
+Joe Givens 2.60 101 Senior
+Mary Michaels 3.45 88 Junior
